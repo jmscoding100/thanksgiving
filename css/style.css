@@ -1,0 +1,80 @@
+:root{
+    --color1: #813405;
+    --color2: #d45113;
+    --color3: #f9a03f;
+    --color4: #ddf9c1;
+}
+
+
+
+
+
+
+
+
+*{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--color1);
+}
+
+
+label{
+    color: var(--color3);
+}
+
+/* class */
+
+.food-caption{
+    color: var(--color4);
+}
+
+
+.food-heading{
+    color: var(--color3);
+    text-transform: capitalize;
+}
+
+
+
+.heading{
+    color: var(--color3);
+}
+
+
+
+
+.intro-text{
+    color: var(--color3);
+}
+
+
+
+.section-heading{
+    color: var(--color3);
+}
+
+
+.section{
+    padding-top: 20px;
+}
+
+
+.section-text{
+    color: var(--color3);
+}
+
+
+/* id */
+
+
+
+
+
+
+
+#submitBtn{
+    background-color: white;
+}
