@@ -209,7 +209,7 @@ class MenuForm{
             column.innerHTML = `
                     <div class="figure-div" data-isChecked=${obj.isChecked}>
                     <figure class="figure item-figure">
-                        <img src="https://via.placeholder.com/200x200"alt="placeholder img" class="img-fluid image figure-img" />
+                        <img src="image/${obj.imgUrl}" "alt="placeholder img" class="img-fluid image figure-img" />
                         <figcaption class="figure-caption food-caption"> ${
                             obj.hasOwnProperty('madeBy') ? obj.madeBy : ''
                         } </figcaption>
