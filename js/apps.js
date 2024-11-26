@@ -69,7 +69,7 @@ class MenuForm{
                 id:7,
                 type: 'sides',
                 item: 'mashed potatoes',
-                imgUrl: 'mashed-potatoes.jpeg',
+                imgUrl: 'mashedp.jpeg',
                 isChecked: false,
                 madeBy: 'Josh'
             },
@@ -77,7 +77,7 @@ class MenuForm{
                 id:8,
                 type: 'sides',
                 item: 'green beans',
-                imgUrl: 'green-beans.jpeg',
+                imgUrl: 'greenb.jpeg',
                 isChecked: false,
                 madeBy: 'Josh'
             },
@@ -93,7 +93,7 @@ class MenuForm{
                 id:10,
                 type: 'sides',
                 item: 'corn bread',
-                imgUrl: 'corn-bread.jpeg',
+                imgUrl: 'cornb.jpeg',
                 isChecked: false,
                 madeBy: 'Josh'
             },
@@ -101,7 +101,7 @@ class MenuForm{
                 id:11,
                 type: 'sides',
                 item: 'mac and cheese',
-                imgUrl: 'mac-cheese.jpeg',
+                imgUrl: 'macc.jpeg',
                 isChecked: false,
                 madeBy: 'Josh'
             },
@@ -117,7 +117,7 @@ class MenuForm{
                 id:13,
                 type: 'desserts',
                 item: 'pound cake',
-                imgUrl: 'pound-cake.jpeg',
+                imgUrl: 'poundcake.jpeg',
                 isChecked: false,
                 madeBy: 'Josh'
             },
@@ -133,7 +133,7 @@ class MenuForm{
                 id:15,
                 type: 'desserts',
                 item: 'apple pie',
-                imgUrl: 'apple-pie.jpeg',
+                imgUrl: 'applepie.jpeg',
                 isChecked: false,
                 madeBy: 'Josh'
             },
@@ -141,7 +141,7 @@ class MenuForm{
                 id:16,
                 type: 'desserts',
                 item: 'peacan pie',
-                imgUrl: 'peacan-pie.jpeg',
+                imgUrl: 'peacanpie.jpeg',
                 isChecked: false,
                 madeBy: 'Josh'
             },
@@ -149,7 +149,7 @@ class MenuForm{
                 id:17,
                 type: 'drinks',
                 item: 'root beer',
-                imgUrl: 'root-beer.jpeg',
+                imgUrl: 'rootbeer.jpeg',
                 isChecked: false
                 
             },
@@ -164,8 +164,8 @@ class MenuForm{
             {
                 id:19,
                 type: 'drinks',
-                item: 'lemonaid',
-                imgUrl: 'lemonaid.jpeg',
+                item: 'lemonade',
+                imgUrl: 'lemonade.jpeg',
                 isChecked: false
                 
             },
